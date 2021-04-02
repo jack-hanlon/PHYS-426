@@ -1,2 +1,2 @@
 # PHYS-426
-Fluid Mechanics Models
+Fluid Mechanics Assignments
